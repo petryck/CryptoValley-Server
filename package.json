@@ -1,0 +1,22 @@
+{
+  "name": "cryptovalley",
+  "version": "1.0.0",
+  "description": "MMORPG PIXEL",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mmorpg",
+    "cryptovalley"
+  ],
+  "author": "Petryck WIlliam",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2",
+    "mysql": "^2.18.1",
+    "nodemon": "^2.0.15",
+    "phaser": "^3.55.2"
+  }
+}
